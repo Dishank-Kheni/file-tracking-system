@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "400597232968",
+    "project_id": "file-tracking-system-c8b88",
+    "storage_bucket": "file-tracking-system-c8b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400597232968:android:b7c90ef5ae093997db977d",
+        "android_client_info": {
+          "package_name": "com.hackathon.fts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400597232968-4inakrqeq2sbhonkeclikdr5fsi9akg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTbPOXDIw043EmE38-ItkQt97hB0-kPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400597232968-4inakrqeq2sbhonkeclikdr5fsi9akg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400597232968-4kissf64rrb0rbkgrrvbbvpbo9c3mln6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ftsMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
