@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+It was a group project, developed during SSIP hackathon-2022.
+
+Alvis Ramani(Leader)
+Dishan Kheni(Worked with mobile application - flutter)
+Ritesh Sutariya(Backend Dev)
+Prit Chakalasiya(Pitcher)
+
+First round on Apr-2022 (Cleared it)
+Final round cleared on Aug-2022
+Declared winner on Feb-2023
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
